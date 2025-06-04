@@ -16,8 +16,8 @@ import pygsheets # Nova biblioteka
 # --- Konfiguracija Aplikacije ---
 
 # Google Sheets konfiguracija
-GOOGLE_SHEET_ID = '1lZ8ACfW_8cC9AorqiwdElzTpmLkepkD48FjOadPPpGg'
-SERVICE_ACCOUNT_KEY_PATH = "C:\\Users\\lovro\\Documents\\Moj Python\\datoteke\\rfid-evidencija-0185dd21ce8d.json" # Npr. 'service_account.json'
+GOOGLE_SHEET_ID = '**************************************'
+SERVICE_ACCOUNT_KEY_PATH = "***************************************.json" # Npr. 'service_account.json'
 ZAPOSLENICI_SHEET_NAME = 'Zaposlenici' # Naziv lista s podacima o zaposlenicima
 
 # Serijska komunikacija konfiguracija
