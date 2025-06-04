@@ -16,8 +16,8 @@ from email.mime.multipart import MIMEMultipart
 
 # --- Konfiguracija Aplikacije ---
 # Google Sheets konfiguracija
-GOOGLE_SHEET_ID = '1lZ8ACfW_8cC9AorqiwdElzTpmLkepkD48FjOadPPpGg'
-SERVICE_ACCOUNT_KEY_PATH = "C:\\Users\\lovro\\Documents\\Moj Python\\datoteke\\rfid-evidencija-0185dd21ce8d.json" # Npr. 'service_account.json'
+GOOGLE_SHEET_ID = '*****************************'
+SERVICE_ACCOUNT_KEY_PATH = "************************.json" # Npr. 'service_account.json'
 ZAPOSLENICI_SHEET_NAME = 'Zaposlenici' # Naziv lista s podacima o zaposlenicima
 
 # Serijska komunikacija konfiguracija
@@ -34,7 +34,7 @@ EMAIL_SENDER_ADDRESS = 'vaš_email@gmail.com' # Email s kojeg se šalje izvješt
 EMAIL_SENDER_PASSWORD = 'VAŠA_APP_PASSWORD_OVDJE' # Koristite App Password za Gmail!
 SMTP_SERVER = 'smtp.gmail.com'
 SMTP_PORT = 587
-EMAIL_RECIPIENT_ADDRESS = 'lovro.sverko@skole.hr' # Primatelj izvještaja (testna adresa)
+EMAIL_RECIPIENT_ADDRESS = 'test@mail.hr' # Primatelj izvještaja (testna adresa)
 
 # Logiranje konfiguracija
 LOG_FILE = 'aplikacija_log.log'
