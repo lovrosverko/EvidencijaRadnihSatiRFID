@@ -4,22 +4,22 @@ Ovaj projekt omogućuje automatiziranu evidenciju dolazaka, odlazaka i pauza za 
 
 ## Sadržaj
 
-1.  [Ključne značajke](https://www.google.com/search?q=%231-klju%C4%8Dne-zna%C4%8Dajke)
-2.  [Tehnologije korištene](https://www.google.com/search?q=%232-tehnologije-kori%C5%A1tene)
-3.  [Hardverski zahtjevi](https://www.google.com/search?q=%233-hardverski-zahtjevi)
-4.  [Postavljanje projekta](https://www.google.com/search?q=%234-postavljanje-projekta)
-      * [4.1. Kloniranje repozitorija](https://www.google.com/search?q=%2341-kloniranje-repozitorija)
-      * [4.2. Postavljanje Python virtualnog okruženja](https://www.google.com/search?q=%2342-postavljanje-python-virtualnog-okru%C5%BEenja)
-      * [4.3. Konfiguracija Google Cloud projekta i Google Sheets API-ja](https://www.google.com/search?q=%2343-konfiguracija-google-cloud-projekta-i-google-sheets-api-ja)
-      * [4.4. Postavljanje Arduino/Dasduino firmwarea](https://www.google.com/search?q=%2344-postavljanje-arduinodasduino-firmwarea)
-      * [4.5. Konfiguracija emaila](https://www.google.com/search?q=%2345-konfiguracija-emaila)
-5.  [Korištenje aplikacija](https://www.google.com/search?q=%235-kori%C5%A1tenje-aplikacija)
-      * [5.1. Aplikacija za dodavanje novih korisnika](https://www.google.com/search?q=%2351-aplikacija-za-dodavanje-novih-korisnika)
-      * [5.2. Glavna aplikacija za evidenciju radnog vremena](https://www.google.com/search?q=%2352-glavna-aplikacija-za-evidenciju-radnog-vremena)
-6.  [Struktura Google Sheets datoteke](https://www.google.com/search?q=%236-struktura-google-sheets-datoteke)
-7.  [Otklanjanje poteškoća](https://www.google.com/search?q=%237-otklanjanje-pote%C5%A1ko%C4%87a)
-8.  [Buduća poboljšanja](https://www.google.com/search?q=%238-budu%C4%87a-pobolj%C5%A1anja)
-9.  [Licenca](https://www.google.com/search?q=%239-licenca)
+1.  Ključne značajke
+2.  Tehnologije korištene
+3.  Hardverski zahtjevi
+4.  Postavljanje projekta
+    * 4.1. Kloniranje repozitorija
+    * 4.2. Postavljanje Python virtualnog okruženja
+    * 4.3. Konfiguracija Google Cloud projekta i Google Sheets API-ja
+    * 4.4. Postavljanje Arduino/Dasduino firmwarea
+    * 4.5. Konfiguracija emaila
+5.  Korištenje aplikacija
+    * 5.1. Aplikacija za dodavanje novih korisnika
+    * 5.2. Glavna aplikacija za evidenciju radnog vremena
+6.  Struktura Google Sheets datoteke
+7.  Otklanjanje poteškoća
+8.  Buduća poboljšanja
+9.  Licenca
 
 -----
 
